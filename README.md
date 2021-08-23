@@ -13,3 +13,7 @@ Listicle aesthetic master cleanse, ut live-edge disrupt bespoke health goth cruc
 ## Deployment
 
 ## How to contribute
+
+### Copyright
+
+2014. Git Training
